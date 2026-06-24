@@ -167,6 +167,5 @@ src/
 
 ## Author
 
-**Giorgi Pavliashvili**  
-Backend Java Developer  
-[LinkedIn](https://www.linkedin.com/in/giorgi-pavliashvili-6718861b6/) · [GitHub](https://github.com/Xorxe7421)
+**Giorgi Pavliashvili**
+[LinkedIn](https://www.linkedin.com/in/giorgi-pavliashvili-6718861b6/)
